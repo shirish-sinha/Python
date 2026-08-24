@@ -2,7 +2,7 @@
 #     then display current values.
 
 # Student's initial details
-student_name = "Amit Verma"
+student_name = "Shirish Sinha"
 student_age = 17
 
 # Reassign the age to a new value (student's birthday has passed)

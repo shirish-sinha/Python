@@ -2,6 +2,6 @@
 
 name, age, city = "Rahul", 18, "Patna"
 
-print("name →", name)
-print("age →", age)
-print("city →", city)
+print("name -", name)
+print("age -", age)
+print("city -", city)

@@ -7,3 +7,4 @@ city = "Ahmedabad"
 print("Name:", name)
 print("Age:", age)
 print("City:", city)
+

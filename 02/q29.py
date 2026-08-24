@@ -1,7 +1,7 @@
 # 29. Fix invalid variable names
 
-student_one = "Rahul"        # was: 1student
-student_name_field = "Rahul" # was: student name
+student_one = "Shirish"        # was: 1student
+student_name_field = "Shirish" # was: student name
 class_name = "B.Tech"        # was: class (reserved keyword)
 
 print("student_one →", student_one)
