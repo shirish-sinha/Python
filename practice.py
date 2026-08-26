@@ -1,13 +1,3 @@
-#student info
+bool(-2)
 
-age = 19
-Age = "18"
-AGE = 18.0
-AGe = str(age)
-
-name = "Idiot"
-name = "Dumahh"
-
-print(type(age), type(Age), type(AGE))
-print(name, age)
-print(AGe, type(AGe))
+print(type)
