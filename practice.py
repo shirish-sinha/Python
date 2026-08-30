@@ -1,3 +1,4 @@
-bool(-2)
+text = "Hello"
 
-print(type)
+print(text + " World")
+print(text * 3)
