@@ -1,0 +1,12 @@
+sentence = input("Enter a sentence: ")
+
+print(sentence)
+print(len(sentence))
+print(len(sentence.split()))
+print(sentence[0])
+print(sentence[-1])
+print(sentence.upper())
+print(sentence.lower())
+print(sentence.title())
+print("Python" in sentence)
+print(sentence.count("a"))
