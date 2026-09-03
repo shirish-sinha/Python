@@ -1,1 +1,0 @@
-print(bool(not(12 or None and True)))
