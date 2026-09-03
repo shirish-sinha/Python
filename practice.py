@@ -1,4 +1,1 @@
-text = "Hello"
-
-print(text + " World")
-print(text * 3)
+print(bool(not(12 or None and True)))
