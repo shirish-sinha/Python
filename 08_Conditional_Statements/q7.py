@@ -1,6 +1,6 @@
 age = int(input("Enter your age: "))
 
-if age >= 18:
-    print("Adult")
-else:
-    print("Minor")
+def say_hello(name, greeting):
+    print(f"Hello {name}, {greeting}")
+
+say_hello("Aarya", "Good Afternon")
