@@ -5,6 +5,6 @@ if unit < 0:
 elif unit <= 100:
     print("Bill = ", unit * 5)
 elif unit <= 200:
-    print("Bill = ", unit * 7)
+    print("Bill = ", (100 * 5) + ((unit - 100) * 7))
 else:
-    print("Bill = ", unit * 10)
+    print("Bill = ", (100 * 5) + (100 * 7) + ((unit - 200) * 10))
