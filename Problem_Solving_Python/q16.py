@@ -1,4 +1,4 @@
-unit = 129
+unit = int(input("Enter the units: "))
 
 if unit < 0:
     print("Please enter a valid value")
