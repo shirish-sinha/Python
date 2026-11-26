@@ -1,0 +1,8 @@
+def reverse_text(text):
+    if text == "":
+        return ""
+    return reverse_text(text[1:]) + text[0]
+
+print(reverse_text("cat"))  # "tac"
+print(reverse_text("a"))    # "a"
+print(reverse_text(""))     # ""

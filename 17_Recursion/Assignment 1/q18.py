@@ -1,0 +1,2 @@
+# The function can overload the memory alloated to the module and give an error. The error is called RecursionError.
+# A loop on the other hand uses lesser memory so it can handle larger counting tasks easily.
